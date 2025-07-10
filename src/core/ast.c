@@ -854,7 +854,7 @@ void free_ast_node(ASTNode* node) {
 
 // Example usage function
 void demonstrate_ast() {
-    printf("=== Enhanced AST Demo ===\n\n");
+    printf("=== AST Demo ===\n\n");
     
     // Create identifiers
     Identifier* x_id = create_identifier("x", 1, 1);
